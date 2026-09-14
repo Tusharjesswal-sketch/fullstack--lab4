@@ -1,0 +1,10 @@
+{
+  "name": "fullstack-lab4",
+  "version": "1.0.0",
+  "main": "app1.js",
+  "scripts": {},
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^3.3.19"
+  }
+}
